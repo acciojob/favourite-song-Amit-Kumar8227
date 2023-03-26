@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+.hello{
+	display:flex
+	gap:4px;
+	
+}
+.hello a{
+	text-decoration: none;
+}
